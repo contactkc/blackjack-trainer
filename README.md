@@ -1,5 +1,9 @@
 <a name="readme-top"></a>
 
+[Forked from Childebrand94's to work with Fun 21's basic strategy](https://github.com/Childebrand94/blackjack-trainer/tree/main)
+
+[Using Riley Howsden's linear regression model to use a different Hi-Lo counting strategy](https://deceitfuldata.medium.com/the-perfect-count-for-beating-the-house-in-blackjack-fd9ea05304c3)
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
